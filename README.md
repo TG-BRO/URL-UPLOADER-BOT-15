@@ -1,4 +1,4 @@
-# Upload Bot V3.0 🚀
+# Upload Bot 🚀
 
 [![logo](https://te.legra.ph/file/82c925ccc38606d837831.jpg)](https://t.me/UploadLinkToFileBot)
 
@@ -6,6 +6,9 @@
 ![Repo Size](https://img.shields.io/github/repo-size/LISA-KOREA/URL-UPLOADER-BOT?&style=flat-square&logo=github)
 [![GitHub stars](https://img.shields.io/github/stars/LISA-KOREA/URL-UPLOADER-BOT?&style=flat-square&logo=github)](https://github.com/LISA-KOREA/URL-UPLOADER-BOT/stargazers)
 
+# It would be very helpful if you could give a star ⭐
+
+# V2 available [click here](https://github.com/LISA-KOREA/UPLOADER-BOT-V2)
 
 
 ### Deploy To Heroku
@@ -33,6 +36,6 @@
 * [@SpEcHlDe](https://t.me/ThankTelegram) for his [AnyDLBot](https://telegram.dog/AnyDLBot)
 * [Dan Tès](https://t.me/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://t.me/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
-* [Lisa](https://t.me/LISA_FAN_LK) this is me [Upload Bot V3.0 🚀](https://telegram.dog/UploadLinkToFileBot)
+* [Lisa](https://t.me/LISA_FAN_LK) this is me [Upload Bot V3.2 🚀](https://telegram.dog/UploadLinkToFileBot)
 #### LICENSE
 - GPLv3
